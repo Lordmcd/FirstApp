@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "495376819699",
+    "project_id": "projeto-firebase-eed5c",
+    "storage_bucket": "projeto-firebase-eed5c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:495376819699:android:007b6c40ce35a266799e86",
+        "android_client_info": {
+          "package_name": "com.luis.projetofirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPZxt5VnXe3zS6G2NT4j0bO03dH5Mw4BM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
